@@ -9,9 +9,6 @@ import org.hibernate.annotations.UpdateTimestamp;
 
 import java.time.Instant;
 
-/**
- * @author Mario Arcomano
- */
 @MappedSuperclass
 @Getter
 @Setter

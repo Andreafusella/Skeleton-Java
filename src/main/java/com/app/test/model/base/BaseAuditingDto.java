@@ -6,9 +6,6 @@ import lombok.Setter;
 
 import java.time.Instant;
 
-/**
- * @author Mario Arcomano
- */
 @MappedSuperclass
 @Getter
 @Setter

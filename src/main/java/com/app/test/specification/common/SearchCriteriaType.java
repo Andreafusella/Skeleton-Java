@@ -1,8 +1,5 @@
 package com.app.test.specification.common;
 
-/**
- * @author Mario Arcomano
- */
 public enum SearchCriteriaType {
     EQUAL_TO("="),
     NOT_EQUAL_TO("!"),

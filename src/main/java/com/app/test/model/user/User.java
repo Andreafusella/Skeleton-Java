@@ -9,9 +9,6 @@ import org.hibernate.annotations.SQLRestriction;
 
 import com.app.test.model.base.BaseEntity;
 
-/**
- * @author Mario Arcomano
- */
 @Entity
 @Table(name = "users")
 @SQLRestriction("deleted=false")

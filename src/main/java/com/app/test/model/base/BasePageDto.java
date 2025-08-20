@@ -6,9 +6,6 @@ import lombok.Setter;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * @author Mario Arcomano
- */
 @Getter
 @Setter
 public class BasePageDto<DTO> {
