@@ -5,9 +5,6 @@ import com.app.test.model.base.BaseCreateDto;
 import lombok.Getter;
 import lombok.Setter;
 
-/**
- * @Author Mario Arcomano
- */
 @Getter
 @Setter
 public class UserCreateDto extends BaseCreateDto {

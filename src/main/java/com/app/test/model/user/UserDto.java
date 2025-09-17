@@ -5,9 +5,6 @@ import com.app.test.model.base.BaseGetDto;
 import lombok.Getter;
 import lombok.Setter;
 
-/**
- * @Author Mario Arcomano
- */
 @Getter
 @Setter
 public class UserDto extends BaseGetDto {
